@@ -1,0 +1,23 @@
+{
+  "name": "curso_de_jest",
+  "version": "1.0.0",
+  "description": "<img src=\"https://facebook.github.io/jest/img/opengraph.png\" style=\"display:block;margin:10px auto\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/professorchoren/curso_de_jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/professorchoren/curso_de_jest/issues"
+  },
+  "homepage": "https://github.com/professorchoren/curso_de_jest#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
